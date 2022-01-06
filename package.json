@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TibebeJS/picitonary.git"
+    "url": "git+https://github.com/TibebeJS/pictionary.git"
   },
   "keywords": [
-    "picitonary",
+    "pictionary",
     "game"
   ],
   "author": "Tibebe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TibebeJS/picitonary/issues"
+    "url": "https://github.com/TibebeJS/pictionary/issues"
   },
-  "homepage": "https://github.com/TibebeJS/picitonary#readme",
+  "homepage": "https://github.com/TibebeJS/pictionary#readme",
   "devDependencies": {
     "lerna": "^4.0.0"
   }

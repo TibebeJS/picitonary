@@ -1,1 +1,1 @@
-# picitonary
+# pictionary
