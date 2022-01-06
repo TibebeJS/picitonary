@@ -42,6 +42,7 @@ module.exports = {
     scopes: [
         { name: 'vue' },
         { name: 'node' },
+        { name: 'game-logic' },
         { name: 'scripts' },
         { name: 'configs' },
     ],
